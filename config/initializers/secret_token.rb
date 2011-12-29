@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Tmp::Application.config.secret_token = 'f83c0d72f6f8bd567cb4fcc971fc4bc4f2457932b8f0a91533830741502393f8392c0d766c2754403e9469843318fedbc2b9738a4759f9741dacd51884aad560'
+Tmp::Application.config.secret_token = '0063755e0bd87e8b5071d0d2755d6a23f58ae3f5b2ae050945d76c1d0ff112cb3b73ff27557889b2ee8926fcce4c6a93411a6b73aa97f56ee091a73fcdb6b680'
