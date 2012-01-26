@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Tmp::Application.load_tasks
+EmptyRails::Application.load_tasks
