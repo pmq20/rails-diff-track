@@ -15,9 +15,9 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: empty_rails_development
+  database: empty_321_development
   pool: 5
-  username: empty_rails
+  username: empty_321
   password:
 
   # Connect on a TCP socket. Omitted by default since the client uses a
@@ -41,15 +41,15 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: empty_rails_test
+  database: empty_321_test
   pool: 5
-  username: empty_rails
+  username: empty_321
   password:
 
 production:
   adapter: postgresql
   encoding: unicode
-  database: empty_rails_production
+  database: empty_321_production
   pool: 5
-  username: empty_rails
+  username: empty_321
   password:

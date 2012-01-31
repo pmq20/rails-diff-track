@@ -1,4 +1,4 @@
-EmptyRails::Application.routes.draw do
+Empty321::Application.routes.draw do
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
