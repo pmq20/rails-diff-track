@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Empty321::Application.config.secret_token = 'e5e57c7626096bc0994894b3f80e7efd535fda2cf7062dca72b785d31f10387cbac3944c809ebc39eb41a6608a46f74d5fd1d2d8285c5d1c7b98400f037bffa5'
+Empty321::Application.config.secret_token = 'e9b857c1f8fc1d4920813f04f8dbfa108b74d0279f353963e69c42c2de9775748ea2c52513e410b5e59cd2091a13fbad9e90b236c51aa464b9f6a359afc14b05'
