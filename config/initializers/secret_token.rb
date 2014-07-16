@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Empty321::Application.config.secret_token = 'f161c9c5ee4f8063a75dcadf9748492cd278bfd4bdddb8ca04490a30864be5bfda500369d90af83c9f4694309ccc11d2579fd1f1b6fedb8d6edcfeb6679c9973'
+RailsDiffTrack::Application.config.secret_token = '461a5160d5b650dd672ac9e421e34aa94c8fea1ea82efbdc30e07636f4086b800b2b653bc2fd2c6fa32b85516b3372ba96208c832ab5d146bed6f72b5b6924d3'

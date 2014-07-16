@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Empty321::Application.load_tasks
+RailsDiffTrack::Application.load_tasks
